@@ -1,4 +1,4 @@
-# Gesammelte Übungen und Ergebnisse der Operating Systems & Networks Übung der Fachhochschule Wiener Neustadt.
+# Operating Systems and Networks, Fachhochschule Wiener Neustadt.
 
 ## Übungsangaben
 
