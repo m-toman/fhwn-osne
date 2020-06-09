@@ -13,3 +13,4 @@
 - Real Time Operating Systems; Nadine Buchegger, Benjamin Moser - [PDF](https://github.com/m-toman/fhwn-osne/blob/master/papers/Real%20Time%20Operating%20Systems.pdf)
 - Funktionsweise von Firewalls; Istvan Galfi, Oliver Dragschitz - [PDF](https://github.com/m-toman/fhwn-osne/blob/master/papers/Funktionsweise_Von_Firewalls.pdf)
 - Apple's goto fail; Thomas Ambichl - [PDF](https://github.com/m-toman/fhwn-osne/blob/master/papers/Apple%20goto%20fail.pdf)
+- Der Heartbleed Bug; Bernhard Waidhofer, Kevin Uterlutsch - [PDF](https://github.com/m-toman/fhwn-osne/blob/master/papers/Uterlutsch_Waidhofer_Heartbleed.pdf)
